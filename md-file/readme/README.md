@@ -114,7 +114,7 @@ Date: 2023.02.09
 
 ![img_4.png](F:\project\ppt-generator\md-file\readme\assets\img_4.png)
 
-- ‘>’+空格：写一行文字介绍，会呈现在页标题的下方
+- ‘>’+空格：一行文字介绍，呈现在页标题的下方
 - 图片![图片的名字](图片的目录地址)
 - 图片地址要写绝对路径
 - 一张图片会居中，两张图片会平分
@@ -126,10 +126,10 @@ Date: 2023.02.09
 
 ## 1、选择合适的模板
 
-> 在ppt-model中，选择自己喜欢的母版
+> 在ppt-model中，选择自己喜欢的模板
 
-- 现在只有一个母版，是梧桐大数据的
-
+- 有一个默认的模板，在ppt-model/default-model.pptx
+- 其他更多的模板，可以关注微信公众号"司镜233"，付费获得
 
 ## 2、修改自己的文件路径
 
@@ -137,7 +137,7 @@ Date: 2023.02.09
 
 ![img_5.png](F:\project\ppt-generator\md-file\readme\assets\img_5.png)
 
-- 在run-file/wutong-ppt-generate.py中修改
+- 在run-file/default-ppt-generate.py中修改
 - 如果更换模板，修改模板路径file_path
 - 修改输出的文件名 out_file_path
 - 修改你写的文件名 md_file_path
