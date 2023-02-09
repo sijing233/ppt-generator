@@ -41,7 +41,7 @@ Date: 2023.02.09
 
 > python、及一些安装包
 
-![img_7.png](F:\project\ppt-generator\md-file\readme\assets\img_7.png)
+![img_7.png](E:\project\ppt-generator\md-file\readme\assets\img_7.png)
 
 - 安装python3+
 - 可以使用pycharm
@@ -51,7 +51,7 @@ Date: 2023.02.09
 
 > 如果已安装可以忽略
 
-![img_8.png](F:\project\ppt-generator\md-file\readme\assets\img_8.png)
+![img_8.png](E:\project\ppt-generator\md-file\readme\assets\img_8.png)
 
 - 打开官网python.org
 - 点击灰色的按钮下载
@@ -71,7 +71,7 @@ Date: 2023.02.09
 
 > 可以在任何地方，书写md文件，但要记得路径
 
-![img_1.png](F:\project\ppt-generator\md-file\readme\assets\img_1.png)
+![img_1.png](E:\project\ppt-generator\md-file\readme\assets\img_1.png)
 
 - 起任何名字，与生成的PPT标题无关
 - 最好起英文的，因为你的环境有可能不支持中文
@@ -82,7 +82,7 @@ Date: 2023.02.09
 
 > 用两行---夹住的中间部分
 
-![img.png](F:\project\ppt-generator\md-file\readme\assets\img_3.png)
+![img.png](E:\project\ppt-generator\md-file\readme\assets\img_3.png)
 
 - Title: 后面写PPT的首页标题
 - Author: 后面写你的名字，或是其他副标题
@@ -93,7 +93,7 @@ Date: 2023.02.09
 
 > 用#，加上一个空格，在后面书写的是一级标题，会自动生成目录
 
-![img_2.png](F:\project\ppt-generator\md-file\readme\assets\img_2.png)
+![img_2.png](E:\project\ppt-generator\md-file\readme\assets\img_2.png)
 
 - 标题和标题，不要重复，否则会覆盖
 - 一级标题，会自动生成PPT的目录
@@ -102,7 +102,7 @@ Date: 2023.02.09
 
 > 用##，加上一个空格，在后面书写的是二级标题，会自动生成为每一页的标题
 
-![img.png](F:\project\ppt-generator\md-file\readme\assets\img.png)
+![img.png](E:\project\ppt-generator\md-file\readme\assets\img.png)
 
 - 在每个一级标题下，一定要有二级标题
 - 有多少个二级标题，就会生成多少页的PPT
@@ -112,7 +112,7 @@ Date: 2023.02.09
 
 > 每页内容，可以有几种组成的部分
 
-![img_4.png](F:\project\ppt-generator\md-file\readme\assets\img_4.png)
+![img_4.png](E:\project\ppt-generator\md-file\readme\assets\img_4.png)
 
 - ‘>’+空格：一行文字介绍，呈现在页标题的下方
 - 图片![图片的名字](图片的目录地址)
@@ -135,7 +135,7 @@ Date: 2023.02.09
 
 > 在代码中，修改自己文件的路径
 
-![img_5.png](F:\project\ppt-generator\md-file\readme\assets\img_5.png)
+![img_5.png](E:\project\ppt-generator\md-file\readme\assets\img_5.png)
 
 - 在run-file/default-ppt-generate.py中修改
 - 如果更换模板，修改模板路径file_path
@@ -147,7 +147,7 @@ Date: 2023.02.09
 
 > 运行代码，生成PPT
 
-![img_6.png](F:\project\ppt-generator\md-file\readme\assets\img_6.png)
+![img_6.png](E:\project\ppt-generator\md-file\readme\assets\img_6.png)
 
 - 运行模板相应的代码wutong-pptx-generate.py
 - 重新生成，需要关掉已经生成的ppt文件
@@ -159,7 +159,7 @@ Date: 2023.02.09
 
 > 在微信公众号内回复"PPT模板"，即可获得更多的模板
 
-- 现在共有20个模板
+- 现在共有10个模板
 - 定价￥50
 - 关注微信公众号"司镜233", 回复”PPT模板“
 - 付费后，会给您发送特定的PPT模板和模板代码
