@@ -74,3 +74,5 @@ def gen_ppt_main():
 run_button = tk.Button(root, text='生成PPT', command=gen_ppt_main)
 run_button.place(x=550, y=505)
 root.mainloop()
+
+# pyinstaller - F.\ppt生成器.py
