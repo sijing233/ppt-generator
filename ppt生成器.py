@@ -51,7 +51,7 @@ xVariable = tk.StringVar()
 com = tk.Combobox(root, textvariable=xVariable)
 com.place(x=350, y=200)
 # 在这里增加下拉选项
-com["value"] = ("默认", "简约", "读书")
+com["value"] = ("默认")
 com.current(0)
 
 
