@@ -1,10 +1,3 @@
-
----
-Title: 这是一份自动生成的PPT
-Author: 关注微信公众号'司镜233'
-Date: 2023.02.09
----
-
 # 工具介绍
 
 ## 你还在为调整PPT的格式烦心吗？
@@ -41,7 +34,7 @@ Date: 2023.02.09
 
 > 进入dict目录下，运行'ppt生成器'
 
-![img.png](.\md-file\readme\assets\img_9.png)
+![img.png](./md-file/readme/assets/img_9.png)
 
 ## 3、选择文件和模板
 
@@ -56,7 +49,7 @@ Date: 2023.02.09
 
 > 可以在任何地方，书写md文件，但要记得路径
 
-![img_1.png](.\md-file\readme\assets\img_1.png)
+![img_1.png](./md-file/readme/assets/img_1.png)
 
 - 起任何名字，与生成的PPT标题无关
 - 最好起英文的，因为你的环境有可能不支持中文
@@ -68,7 +61,7 @@ Date: 2023.02.09
 
 > 用两行---夹住的中间部分
 
-![img.png](.\md-file\readme\assets\img_3.png)
+![img.png](./md-file/readme/assets/img_3.png)
 
 - Titl'+model_name+' 后面写PPT的首页标题
 - Author: 后面写你的名字，或是其他副标题
@@ -79,7 +72,7 @@ Date: 2023.02.09
 
 > 用#，加上一个空格，在后面书写的是一级标题，会自动生成目录
 
-![img_2.png](.\md-file\readme\assets\img_2.png)
+![img_2.png](./md-file/readme/assets/img_2.png)
 
 - 标题和标题，不要重复，否则会覆盖
 - 一级标题，会自动生成PPT的目录
@@ -88,7 +81,7 @@ Date: 2023.02.09
 
 > 用##，加上一个空格，在后面书写的是二级标题，会自动生成为每一页的标题
 
-![img.png](.\md-file\readme\assets\img.png)
+![img.png](./md-file/readme/assets/img.png)
 
 - 在每个一级标题下，一定要有二级标题
 - 有多少个二级标题，就会生成多少页的PPT
@@ -98,7 +91,7 @@ Date: 2023.02.09
 
 > 每页内容，可以有几种组成的部分
 
-![img_4.png](.\md-file\readme\assets\img_4.png)
+![img_4.png](./md-file/readme/assets/img_4.png)
 
 - ‘>’+空格：一行文字介绍，呈现在页标题的下方
 - 图片![图片的名字](图片的目录地址)
@@ -143,7 +136,7 @@ Date: 2023.02.09
 
 > 在微信公众号内回复"PPT模板"，即可获得更多的模板
 
-![image-20230213165944604](.\md-file\readme\assets\image-20230213165944604.png)
+![image-20230213165944604](./md-file/readme/assets/image-20230213165944604.png)
 
 - 现在已有十多个模板，满足基本通用场景的使用
 - 定价￥10
@@ -173,9 +166,9 @@ Date: 2023.02.09
 
 > 这是通用风格的样式展现
 
-![image-20230210114433311](.\md-file\readme\assets\image-20230210114433311.png)
+![image-20230210114433311](./md-file/readme/assets/image-20230210114433311.png)
 
-![image-20230210114415315](.\md-file\readme\assets\image-20230210114415315.png)
+![image-20230210114415315](./md-file/readme/assets/image-20230210114415315.png)
 
 
 
@@ -183,7 +176,7 @@ Date: 2023.02.09
 
 > 这是一个通用的风格，采用红色和白色进行搭配
 
-![image-20230213153858427](.\md-file\readme\assets\image-20230213153858427.png)
+![image-20230213153858427](./md-file/readme/assets/image-20230213153858427.png)
 
 
 
@@ -191,7 +184,7 @@ Date: 2023.02.09
 
 > 这是一个蓝白风格的展现
 
-![image-20230216105054618](.\md-file\readme\assets\image-20230216105054618.png)
+![image-20230216105054618](./md-file/readme/assets/image-20230216105054618.png)
 
 
 
@@ -199,13 +192,13 @@ Date: 2023.02.09
 
 > 这是一个通用风格的展现，采用蓝色和黄色进行搭配
 
-![image-20230216105118511](.\md-file\readme\assets\image-20230216105118511.png)
+![image-20230216105118511](./md-file/readme/assets/image-20230216105118511.png)
 
 ## 水彩
 
 > 这是水彩风格的样式展现
 
-![image-20230209202039931](.\md-file\readme\assets\image-20230209202039931.png)
+![image-20230209202039931](./md-file/readme/assets/image-20230209202039931.png)
 
 
 
@@ -213,7 +206,7 @@ Date: 2023.02.09
 
 > 这是科技风格的样式展现
 
-![image-20230213101352084](.\md-file\readme\assets\image-20230213101352084.png)
+![image-20230213101352084](./md-file/readme/assets/image-20230213101352084.png)
 
 
 
@@ -223,7 +216,7 @@ Date: 2023.02.09
 
 
 
-![image-20230213113517077](.\md-file\readme\assets\image-20230213113517077.png)
+![image-20230213113517077](./md-file/readme/assets/image-20230213113517077.png)
 
 
 
@@ -231,7 +224,7 @@ Date: 2023.02.09
 
 > 这是教学通用的风格展示，采用绿色的黑白作为底色
 
-![image-20230213164950528](.\md-file\readme\assets\image-20230213164950528.png)
+![image-20230213164950528](./md-file/readme/assets/image-20230213164950528.png)
 
 
 
@@ -241,7 +234,7 @@ Date: 2023.02.09
 
 > 这是教学通用的风格展示，采用黑色的黑板为底色
 
-![image-20230213144910488](.\md-file\readme\assets\image-20230213144910488.png)
+![image-20230213144910488](./md-file/readme/assets/image-20230213144910488.png)
 
 
 
@@ -249,31 +242,31 @@ Date: 2023.02.09
 
 > 这是一份读书风格的展示，搭配绿植，更显清新
 
-![image-20230213165306951](.\md-file\readme\assets\image-20230213165306951.png)
+![image-20230213165306951](./md-file/readme/assets/image-20230213165306951.png)
 
 ## 灰红
 
 > 这是灰色和红色搭配的风格
 
-![image-20230213164214474](.\md-file\readme\assets\image-20230213164214474.png)
+![image-20230213164214474](./md-file/readme/assets/image-20230213164214474.png)
 
 ## 简约
 
 > 这是一个简约风格的展示
 
-![image-20230213164822644](.\md-file\readme\assets\image-20230213164822644.png)
+![image-20230213164822644](./md-file/readme/assets/image-20230213164822644.png)
 
 ## 极简
 
 > 这是一份极简风格的展示
 
-![image-20230213164618280](.\md-file\readme\assets\image-20230213164618280.png)
+![image-20230213164618280](./md-file/readme/assets/image-20230213164618280.png)
 
 ## 可爱
 
 > 这是一份可爱风格的内容展示
 
-![image-20230213165704991](.\md-file\readme\assets\image-20230213165704991.png)
+![image-20230213165704991](./md-file/readme/assets/image-20230213165704991.png)
 
 
 
@@ -285,7 +278,7 @@ Date: 2023.02.09
 
 > 新建一个文件夹，放置你的PPT文字内容
 
-![img_3.png](.\md-file\readme\assets\img_3.png)
+![img_3.png](./md-file/readme/assets/img_3.png)
 
 - 在文件夹内，再创建一个文件夹
 - 命名为images，用来存放你的图片
@@ -294,7 +287,7 @@ Date: 2023.02.09
 
 > 可以使用任何markdown的软件写你的文字，这里使用免费的vs
 
-![](.\md-file\readme\assets\img_13.png)
+![](./md-file/readme/assets/img_13.png)
 
 - 点击New File，新建一个文件
 - 文件名，一定要以.md结尾
@@ -303,7 +296,7 @@ Date: 2023.02.09
 
 > 如图所示，打开预览
 
-![img.png](.\md-file\readme\assets\img15.png)
+![img.png](./md-file/readme/assets/img15.png)
 ## 3、开始书写你的灵感吧！
 
 > 按照上述的格式，书写你的灵感吧！
@@ -314,7 +307,7 @@ Date: 2023.02.09
 
 > 我比较喜欢用Typora，但它是付费的
 
-![](.\md-file\readme\assets\img_10.png)
+![](./md-file/readme/assets/img_10.png)
 
 - Typora可以设置图片粘贴路径
 - 不需要手动书写图片路径
